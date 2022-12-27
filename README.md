@@ -1,10 +1,19 @@
-laptop-price-prediction
-==============================
+<b>
 
-Predicting the price of laptops based on certain specifications
+# Laptop-price-prediction
 
-Project Organization
-------------
+<font size=4>
+
+Predicting the price of laptops based on certain specifications. To run your own instance of this model,
+clone thhe repository to any directory of your choice. Then follow the steps below. Make sure you install all the required dependencies from pip before running the instance.
+
+```
+cd laptop-price-prediction
+cd app
+streamlit run app.py
+```
+
+## Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -51,7 +60,6 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
-
---------
+---
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
