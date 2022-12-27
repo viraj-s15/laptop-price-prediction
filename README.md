@@ -5,7 +5,7 @@
 <font size=4>
 
 Predicting the price of laptops based on certain specifications. To run your own instance of this model,
-clone thhe repository to any directory of your choice. Then follow the steps below. Make sure you install all the required dependencies from pip before running the instance.
+clone the repository to any directory of your choice. Then follow the steps below. Make sure you install all the required dependencies from pip before running the instance.
 
 ```
 cd laptop-price-prediction
